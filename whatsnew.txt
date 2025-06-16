@@ -1,5 +1,7 @@
--------- PET A DOG UNLIMITED WHATS NEW (2.3a and 2.3b) --------
+-------- PET A DOG UNLIMITED WHATS NEW (2.3a, 2.3b, 2.3c) --------
 2.3a brings new costumes for upcoming stuff placed
 in the "Upcoming&StupidReminder" sprite.
 
 2.3b is a update.
+
+2.3c simply moves stuff to the front
