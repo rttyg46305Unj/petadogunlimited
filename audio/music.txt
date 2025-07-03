@@ -1,3 +1,4 @@
 Ottawa (1).wav
 forest_midday_alt.wav
+worldmap_ice.ogg
 calm_ocean.wav
