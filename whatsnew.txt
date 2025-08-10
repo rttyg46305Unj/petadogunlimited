@@ -1,4 +1,4 @@
--------- PET A DOG UNLIMITED WHATS NEW (2.4) --------
+-------- PET A DOG UNLIMITED WHATS NEW (2.4.1) --------
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⡿⣟⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣽⢯⡿⣽⣻⣽⢷⣻⣽⢾⣽⣞⣿⢽⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⢿⡙⢯⡿⣽⢯⣷⡻⣙⠻⣞⣿⣺⣗⡿⡽⣿⣿⣿⣿⣿⣿⣿⣿ 
@@ -21,4 +21,6 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡗⡡⢂⠅⠅⠌⡐⢀⠂⡐⢐⠐⠄⢅⢊⢆⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠣⡊⠔⡨⢐⠡⢐⢐⣔⣔⠠⡡⢑⠕⡜⣴⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣳⣬⣦⣆⣥⣮⣾⣟⣿⣾⣷⣾⣷⣷⣷⣿⣿⣿⣿⣿⣿⣿⣿
-I have changed the save data system entirely!
+This text file was updated after 2.4.1
+I forgot what i've added in 2.4.1.
+
