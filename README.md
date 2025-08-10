@@ -1,4 +1,4 @@
-![The title for GitHub](unused-noversion-2.4.1a.svg "title")
+![Image](unused-noversion-2.4.1a.svg "hi there")
 
 Contains assets for Pet a Dog Unlimited
 Play 2.4 [here](https://studio.penguinmod.com/?interpolate&clones=Infinity&offscreen&size=640x360&limitless&nooffscreen&optimize#8829783752).
