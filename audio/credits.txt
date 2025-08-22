@@ -1,3 +1,4 @@
 calm_ocean.wav and forest_midday_alt.wav from SuperTux
 
-Ottawa (1).wav has a unknown origin, yet
+Ottawa (1).wav is from the PenguinMod Sound Library
+https://library.penguinmod.com/files/sounds/user/themes/OttawaFINAL.mp3
